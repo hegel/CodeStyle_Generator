@@ -1,0 +1,26 @@
+
+@Define @COMPS
+{
+@VAR @OPEQ @VAR
+}
+
+@Define @COMPA
+{
+@COMPS @OPAND @COMPS
+}
+
+@Define @IF
+{
+if ( @ALL ) {
+}
+
+@Define @FOR
+{
+for ( @ALL ; @ALL ; @ALL ) {
+}
+
+@Define @LOOP
+{
+while ( @ALL ) {
+}
+

@@ -1,0 +1,16 @@
+
+@REDefine @COMPS
+{
+@VAR @OPEQ @VAR
+}
+
+@REDefine @IF
+{
+if ( @ALL ) {
+}
+
+@REDefine @LOOP
+{
+while ( @ALL ) {
+}
+
